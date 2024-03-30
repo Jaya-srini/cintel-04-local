@@ -47,12 +47,6 @@ with ui.sidebar(open="open"):
         href="https://github.com/Jaya-srini/cintel-04-local.git",
         target="_blank",
     )
-    ui.a(
-        "GitHub App",
-        href="https://denisecase.github.io/pyshiny-penguins-dashboard-express/",
-        target="_blank",
-    )
-    
 
 with ui.layout_columns():
 
